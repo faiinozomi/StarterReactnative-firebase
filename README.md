@@ -23,7 +23,7 @@ const firebaseConfig = {
    
    authDomain: "projectId.firebaseapp.com",
    
-   databaseURL: "https://databaseName.firebaseio.com",
+   databaseURL: "https://..............",
    
    storageBucket: "bucket.appspot.com",
    
